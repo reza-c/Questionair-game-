@@ -1,3 +1,10 @@
+
+Note: to open the game, you need to download Zip file and also install Unity on you computer and open Zip file with Unity Application and then you can play the game.
+about how to install Unity, you can follow the link below:
+
+https://youtu.be/Kh_FD0Ypdhg?si=ROUhvTqr58VtcnXQ)
+
+
 # Questionair-game-
 Game Scenario:
 
