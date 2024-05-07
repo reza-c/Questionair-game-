@@ -5,7 +5,7 @@ about how to install Unity, you can follow the link below:
 https://youtu.be/Kh_FD0Ypdhg?si=ROUhvTqr58VtcnXQ)
 
 
-# Questionair-game-
+# How we can Get Hired?-
 Game Scenario:
 
 There is an IT company and wants to hire Cybersecurity Professionals to fill the open positions. The company decided to design the scenario base game for all candidates to evaluate their proficiency in case of cyber attacks and also test their knowledge about Cybersecurity.
